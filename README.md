@@ -9,3 +9,4 @@ A simple quiz game powered by React Game Engine and using ExpressJS as it's back
 ## Assets Credits
 - Background Music: [skrjablin](https://opengameart.org/content/skrjablins-background-music-collection-summer-2014) under the CC0 1.0 Universal
 - Images, fonts, and SFX: [Kenney](https://www.kenney.nl/assets) under the CC0 1.0 Universal
+- Questions: [Open Trivia Database](https://opentdb.com/) under the CC BY-SA 4.0
