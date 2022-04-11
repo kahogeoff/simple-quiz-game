@@ -1,0 +1,10 @@
+version: '3'
+services:
+  quiz-game-frontend:
+    image: geoff4321/quiz-game-frontend:latest
+    ports:
+      - 80:80
+  quiz-game-backend:
+    image: geoff4321/quiz-game-backend:latest
+    ports:
+      - 3000:3000
