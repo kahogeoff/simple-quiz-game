@@ -1,0 +1,6 @@
+[submodule "backend"]
+    path = backend
+    url = https://github.com/kahogeoff/simple-quiz-game-backend
+[submodule "frontend"]
+    path = frontend
+    url = https://github.com/kahogeoff/simple-quiz-game-frontend
